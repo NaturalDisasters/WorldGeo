@@ -1,4 +1,10 @@
+body {
+ 
+}
+
 p {
+ colour: Green;
+ background-colour: #8FBC8F;
  font-family: Arial;
 }
 
