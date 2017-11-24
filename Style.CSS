@@ -21,3 +21,10 @@ li {
 .Causes {  
  font-family: 'Oswald', sans-serif;
 }
+
+.grid {
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+  grid-template-rows: 40% 50% 50px;
+}
