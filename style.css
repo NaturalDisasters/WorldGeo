@@ -26,8 +26,8 @@ li {
 
 .grid {
   border: 2px blue solid;
-  width: 400px;
-  height: 500px;
+  width: 800px;
+  height: 1000px;
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-rows: 50% 50%;
