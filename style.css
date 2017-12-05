@@ -12,15 +12,16 @@ p {
 h1 {
  font-family: 'Oswald', sans-serif;
  position: center;
- font-size: 28px;
+ font-size: 40px;
  font-align: center;
 }
 
-li {
+h2 {
  font-family: 'Oswald', sans-serif;
+ font-size: 20px;
 }
 
-.Causes {  
+li {
  font-family: 'Oswald', sans-serif;
 }
 
