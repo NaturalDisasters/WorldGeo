@@ -26,7 +26,6 @@ li {
 }
 
 .grid {
-  border: 2px blue solid;
   width: 800px;
   height: 1000px;
   display: grid;
@@ -35,10 +34,10 @@ li {
 }
 
 .box {
-  background-color: beige;
-  color: black;
-  border-radius: 5px;
-  border: 2px dodgerblue solid;
+  background-color:;
+  color:;
+  border-radius: ;
+  border: ;
 }
 
 img {
