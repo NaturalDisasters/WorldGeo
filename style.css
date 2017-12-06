@@ -37,8 +37,8 @@ li {
 .box {
   background-color: white;
   color: black;
-  border-radius: 5px;
-  border: 2px ;
+  border-radius: 20px
+  border: 2px
 }
 
 img {
