@@ -35,10 +35,10 @@ li {
 }
 
 .box {
-  background-color:;
-  color:;
-  border-radius: ;
-  border: ;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  border: 2px ;
 }
 
 img {
