@@ -1,29 +1,31 @@
 body {
  background: #ffffff;
- margin: 20 px;
+ margin: 10px;
+ padding: 20px;
 }
 
 p {
  colour: #ffffff;
- background-colour: ;
+ background-color:;
  font-family: 'Oswald', sans-serif;
- font-size: 
+ font-size: 20px;
 }
 
 h1 {
  font-family: 'Oswald', sans-serif;
  position: center;
- font-size: 40px;
- font-align: center;
+ font-size: 60px;
+ text-align: center;
 }
 
 h2 {
  font-family: 'Oswald', sans-serif;
- font-size: 20px;
+ font-size: 25px;
 }
 
 li {
  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
 
 .grid {
@@ -45,4 +47,5 @@ li {
 img {
  height:400px; 
  width:500px;
+ text-align: center;
 }
