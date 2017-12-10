@@ -38,8 +38,8 @@ li {
   grid-template-rows: 25% 25% 25%;
 }
 
-.middle image {
-
+.main image {
+text-align: center;
 }
 
 .box {
