@@ -34,8 +34,12 @@ li {
   width: 1000x;
   height: 1200px;
   display: grid;
-  grid-template-columns: 33% 33% 33%;
+  grid-template-columns: 33% 33%;
   grid-template-rows: 25% 25% 25%;
+}
+
+.middle image {
+
 }
 
 .box {
