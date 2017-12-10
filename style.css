@@ -34,8 +34,8 @@ li {
   width: 1000x;
   height: 1200px;
   display: grid;
-  grid-template-columns:;
-  grid-template-rows:;
+  grid-template-columns:35% 35%;
+  grid-template-rows:25% 25%;
 }
 
 .main image {
