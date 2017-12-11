@@ -1,16 +1,46 @@
 body {
-  font-family: 'Oswald', sans-serif;
+ background: #ffffff;
+ margin: 10px;
+ padding: 20px;
 }
 
 p {
-  colour: Green; background-colour: #8FBC8F;
-  font-family: 'Oswald', sans-serif;
+ colour: #ffffff;
+ background-color:;
+ font-family: 'Oswald', sans-serif;
+ font-size: 20px;
+ text-align: center
 }
 
 h1 {
-  font-family: 'Oswald', sans-serif;
+ font-family: 'Oswald', sans-serif;
+ position: center;
+ font-size: 60px;
+ text-align: center;
 }
 
 h2 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 25px;
+}
+
+.grid {
   font-family: 'Oswald', sans-serif;
+  width: 1000x;
+  height: 1400px;
+  display: grid;
+  grid-template-columns:40% 40%;
+  grid-template-rows:30% 30%;
+}
+
+.box {
+  background-color: white;
+  color: black;
+  border-radius: 20px
+  border: 2px
+}
+
+img {
+ height:400px; 
+ width:400px;
 }
