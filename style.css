@@ -1,14 +1,14 @@
 body {
  background: #ffffff;
- margin: 10px;
- padding: 30px;
+ margin: 20x;
+ padding: 50px;
 }
 
 p {
  colour: #ffffff;
  background-color:;
  font-family: 'Oswald', sans-serif;
- font-size: 21px;
+ font-size: 25px;
  text-align: center
 }
 
@@ -29,16 +29,16 @@ h3 {
 }
 li {
  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .grid {
   font-family: 'Oswald', sans-serif;
   width: 1000x;
-  height: 1400px;
+  height: 1300px;
   display: grid;
-  grid-template-columns:40% 20% 30%;
-  grid-template-rows:30% 30% 30%;
+  grid-template-columns:33% 10% 30%;
+  grid-template-rows:30% 30% 20;
 }
 
 .main image {
@@ -53,8 +53,10 @@ text-align: center;
 }
 
 img {
- height:400px; 
- width:500px;
+    
+  height:500px;
+  width: 700px;
+  
  }
 
 .box a {
