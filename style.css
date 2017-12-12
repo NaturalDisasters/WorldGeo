@@ -1,7 +1,7 @@
 body {
  background: #ffffff;
  margin: 10px;
- padding: 20px;
+ padding: 30px;
 }
 
 p {
@@ -21,9 +21,12 @@ h1 {
 
 h2 {
  font-family: 'Oswald', sans-serif;
- font-size: 25px;
+ font-size: 35px;
 }
 
+h3 {
+  font-size: 30px
+}
 li {
  font-family: 'Oswald', sans-serif;
   font-size: 20px;
@@ -51,6 +54,8 @@ text-align: center;
 
 img {
  height:400px; 
- width:400px;
- text-align: right;
+ width:500px;
+ }
+
+.box a {
 }
