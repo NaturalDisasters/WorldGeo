@@ -8,7 +8,7 @@ p {
  colour: #ffffff;
  background-color:;
  font-family: 'Oswald', sans-serif;
- font-size: 20px;
+ font-size: 21px;
  text-align: center
 }
 
@@ -37,8 +37,8 @@ li {
   width: 1000x;
   height: 1400px;
   display: grid;
-  grid-template-columns:25% 25% 25%;
-  grid-template-rows:30% 30% 25%;
+  grid-template-columns:40% 20% 30%;
+  grid-template-rows:30% 30% 30%;
 }
 
 .main image {
