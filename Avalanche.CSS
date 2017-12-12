@@ -21,7 +21,7 @@ h1 {
 
 h2 {
  font-family: 'Oswald', sans-serif;
- font-size: 40px;
+ font-size: 36px;
 }
 
 h3 {
@@ -35,7 +35,7 @@ li {
 .grid {
   font-family: 'Oswald', sans-serif;
   width: 1000x;
-  height: 1500px;
+  height: 1600px;
   display: grid;
   grid-template-columns:33% 10% 30%;
   grid-template-rows:30% 30% 20;
@@ -52,7 +52,6 @@ text-align: center;
 }
 
 img {    
-  height:550px;
-  width: 750px;  
+  height:500px;
+  width: 700px;  
  }
-
