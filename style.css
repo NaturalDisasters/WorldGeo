@@ -8,7 +8,7 @@ p {
  colour: #ffffff;
  background-color:;
  font-family: 'Oswald', sans-serif;
- font-size: 27px;
+ font-size: 28px;
  text-align: center
 }
 
@@ -43,6 +43,8 @@ li {
 
 .main image {
 text-align: center;
+width: 700px;
+height: 700px;
 }
 
 .box {
@@ -53,7 +55,7 @@ text-align: center;
 
 img {
   height:550px;
-  width: 700px;
+  width: 850px;
  }
 
 .box a {
