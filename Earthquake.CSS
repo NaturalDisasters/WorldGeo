@@ -9,7 +9,7 @@ p {
  colour: #ffffff;
  background-color:;
  font-family: 'Oswald', sans-serif;
- font-size: 27px;
+ font-size: 29px;
  text-align: center
 }
 
@@ -50,4 +50,9 @@ text-align: center;
   background-color: white;
   color: black;
   padding: 28px  
+}
+
+img {
+  width: 700px;
+  height: 550px;
 }
