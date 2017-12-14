@@ -58,5 +58,7 @@ img {
   width: 700px;
  }
 
-.box a {
+hr {
+  height: 0px;
+  color: black;
 }
