@@ -8,7 +8,7 @@ p {
  colour: #ffffff;
  background-color:;
  font-family: 'Oswald', sans-serif;
- font-size: 27px;
+ font-size: 28px;
  text-align: center
 }
 
@@ -21,7 +21,7 @@ h1 {
 
 h2 {
  font-family: 'Oswald', sans-serif;
- font-size: 36px;
+ font-size: 40px;
 }
 
 h3 {
@@ -53,6 +53,6 @@ text-align: center;
 }
 
 img {    
-  height:450px;
+  height: 450px;
   width: 650px;  
 }
