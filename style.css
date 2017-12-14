@@ -1,7 +1,7 @@
 body {
  background: #ffffff;
  margin: 20x;
- padding: 50px;
+ padding: 40px;
 }
 
 p {
@@ -35,7 +35,7 @@ li {
 .grid {
   font-family: 'Oswald', sans-serif;
   width: 1000x;
-  height: 1900px;
+  height: 2000px;
   display: grid;
   grid-template-columns:33% 10% 30%;
   grid-template-rows:30% 30% 20;
@@ -54,8 +54,8 @@ height: 700px;
 }
 
 img {
-  height:550px;
-  width: 850px;
+  height:500px;
+  width: 700px;
  }
 
 .box a {
