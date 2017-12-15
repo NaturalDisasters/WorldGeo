@@ -56,3 +56,8 @@ img {
   width: 630px;
   height: 500px;
 }
+
+hr {
+  height: 0px;
+  color: black;
+}
