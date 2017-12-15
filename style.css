@@ -25,7 +25,7 @@ h2 {
 }
 
 h3 {
-  font-size: 34px
+  font-size: 30px
 }
 li {
  font-family: 'Oswald', sans-serif;
@@ -62,7 +62,7 @@ hr {
   height: 0px;
   color: black;
 }
-
-.Causes {
- margins: auto;
+.Causes{
+  text-align: center;
+  font-size: 30px;
 }
