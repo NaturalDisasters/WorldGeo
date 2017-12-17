@@ -1,12 +1,12 @@
 body {
- background-color: burlywood;
+ background-color: lightgreen;
  margin: 20x;
  padding: 60px;
 }
 
 p {
  colour: #ffffff;
- background-color:;
+ background-color:lightblue;
  font-family: 'Oswald', sans-serif;
  font-size: 28px;
  text-align: center
@@ -17,19 +17,19 @@ h1 {
  position: center;
  font-size: 70px;
  text-align: center;
- background-color: blanchedalmond;
+ background-color: lightblue;
 }
 
 h2 {
  font-family: 'Oswald', sans-serif;
  font-size: 60px;
- background-color: blanchedalmond;
+ background-color: lightblue;
  text-align: center
 }
 
 h3 {
   font-size: 35px;
-  background-color: blanchedalmond;
+  background-color: lightblue;
   text-align: center;
 }
 li {
@@ -45,7 +45,7 @@ li {
   display: grid;
   grid-template-columns:40% 10% 30%;
   grid-template-rows:30% 30% 20;
-  background-color: burlywood;
+  background-color: lightgreen;
   
 }
 
@@ -59,7 +59,7 @@ height: 700px;
   background-color: white;
   color: black;
   border-radius: 5px;
-  background-color: burlywood 
+  background-color: lightgreen;
 }
 
 img {
@@ -70,7 +70,7 @@ img {
 
 hr {
   height: 0px;
-  color: black;
+  color:;
 }
 .Causes {
   text-align: center;
@@ -78,5 +78,5 @@ hr {
 }
 
 .introduction {
-  background-color: blanchedalmond; 
+  background-color: lightblue;
 }
