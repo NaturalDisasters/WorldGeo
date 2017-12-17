@@ -72,7 +72,11 @@ hr {
   height: 0px;
   color: black;
 }
-.Causes{
+.Causes {
   text-align: center;
   font-size: 30px;
+}
+
+.introduction {
+  background-color: blanchedalmond; 
 }
