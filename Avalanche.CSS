@@ -1,14 +1,14 @@
 body {
- background: #ffffff;
+ background-color: lightgreen;
  margin: 20x;
- padding: 50px;
+ padding: 60px;
 }
 
 p {
- colour: #ffffff;
- background-color:;
+  color: darkcyan;
+ background-color: lightcyan;
  font-family: 'Oswald', sans-serif;
- font-size: 29px;
+ font-size: 28px;
  text-align: center
 }
 
@@ -17,51 +17,74 @@ h1 {
  position: center;
  font-size: 70px;
  text-align: center;
+ background-color: lightcyan;
+ color: darkcyan;   
 }
 
 h2 {
  font-family: 'Oswald', sans-serif;
- font-size: 32px;
+ font-size: 60px;
+ background-color: lightcyan;
+ text-align: center;
+ color: darkcyan;
+ 
 }
 
 h3 {
-  font-size: 29px
+  font-size: 35px;
+  background-color: lightcyan;
+  color: darkcyan;
+  text-align: center;
 }
+
 li {
  font-family: 'Oswald', sans-serif;
-  font-size: 25px;
+  font-size: 35px;
+  text-align: center;
+  background-color: lightcyan;
+ color: darkcyan;
 }
 
 .grid {
   font-family: 'Oswald', sans-serif;
   width: 1000x;
-  height: 1600px;
+  height: 2000px;
   display: grid;
-  grid-template-columns:33% 9% 30%;
+  grid-template-columns:40% 10% 30%;
   grid-template-rows:30% 30% 20;
+  background-color: lightgreen;
 }
 
-.main image {
+.main img {
 text-align: center;
+width: 700px;
+background-color: lightgreen; 
 }
 
 .box {
   background-color: white;
   color: black;
   border-radius: 5px;
-  padding: 28px;
+  background-color: lightgreen;
 }
 
-img {    
+img {
   height:500px;
-  width: 700px;  
+  width: 700px;
+  text-align: center;
  }
 
 hr {
   height: 0px;
-  color: black;
+  color: lightcyan;
 }
 
-a {
-font-size: 20px;
-background-color: blanchedalmond
+.Causes {
+  text-align: center;
+  font-size: 30px;
+}
+
+.introduction {
+  background-color: lightcyan;
+  color: darkcyan;
+}
