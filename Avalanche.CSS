@@ -1,12 +1,12 @@
 body {
  background-color: lightgreen;
  margin: 20x;
- padding: 60px;
+ padding: 40px;
 }
 
 p {
-  color: darkcyan;
- background-color: lightcyan;
+  color: grey;
+ background-color: lavender;
  font-family: 'Oswald', sans-serif;
  font-size: 28px;
  text-align: center
@@ -17,23 +17,23 @@ h1 {
  position: center;
  font-size: 70px;
  text-align: center;
- background-color: lightcyan;
- color: darkcyan;   
+ background-color: lavender;
+ color: gray;   
 }
 
 h2 {
  font-family: 'Oswald', sans-serif;
- font-size: 60px;
- background-color: lightcyan;
+ font-size: 44px;
+ background-color: lavender;
  text-align: center;
- color: darkcyan;
+ color: grey;
  
 }
 
 h3 {
   font-size: 35px;
-  background-color: lightcyan;
-  color: darkcyan;
+  background-color: lavender;
+  color: grey;
   text-align: center;
 }
 
@@ -42,7 +42,7 @@ li {
   font-size: 35px;
   text-align: center;
   background-color: lightcyan;
- color: darkcyan;
+ color: grey;
 }
 
 .grid {
@@ -50,7 +50,7 @@ li {
   width: 1000x;
   height: 2000px;
   display: grid;
-  grid-template-columns:40% 10% 30%;
+  grid-template-columns:37% 10% 30%;
   grid-template-rows:30% 30% 20;
   background-color: lightgreen;
 }
@@ -72,6 +72,7 @@ img {
   height:500px;
   width: 700px;
   text-align: center;
+  padding: 20px;
  }
 
 hr {
@@ -84,7 +85,7 @@ hr {
   font-size: 30px;
 }
 
-.introduction {
-  background-color: lightcyan;
-  color: darkcyan;
+a {
+  font-size: 25px;
+background-color: lavender;
 }
