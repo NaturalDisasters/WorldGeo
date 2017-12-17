@@ -5,8 +5,8 @@ body {
 }
 
 p {
- colour: #ffffff;
- background-color:lightblue;
+  color: darkcyan;
+ background-color: lightcyan;
  font-family: 'Oswald', sans-serif;
  font-size: 28px;
  text-align: center
@@ -17,25 +17,31 @@ h1 {
  position: center;
  font-size: 70px;
  text-align: center;
- background-color: lightblue;
+ background-color: lightcyan;
+ color: darkcyan;   
 }
 
 h2 {
  font-family: 'Oswald', sans-serif;
  font-size: 60px;
- background-color: lightblue;
- text-align: center
+ background-color: lightcyan;
+ text-align: center;
+ color: darkcyan;
+ 
 }
 
 h3 {
   font-size: 35px;
-  background-color: lightblue;
+  background-color: lightcyan;
+  color: darkcyan;
   text-align: center;
 }
 li {
  font-family: 'Oswald', sans-serif;
   font-size: 35px;
   text-align: center;
+  background-color: lightcyan;
+ color: darkcyan;
 }
 
 .grid {
@@ -49,10 +55,10 @@ li {
   
 }
 
-.main image {
+.main img {
 text-align: center;
 width: 700px;
-height: 700px;
+background-color: lightgreen; 
 }
 
 .box {
@@ -78,5 +84,6 @@ hr {
 }
 
 .introduction {
-  background-color: lightblue;
+  background-color: lightcyan;
+  color: darkcyan;
 }
