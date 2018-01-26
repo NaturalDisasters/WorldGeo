@@ -10,7 +10,7 @@
 <!—This is Justin Palathunkal’s TEJ20 exam-->
   <body>
     <p>My favourite famous person is Paul George. 
-	<src img="paul-george-snubbed.jpg"/>
+    <img src="paul-george-snubbed.jpg"/>
 </p>
   </body>
 </html>
